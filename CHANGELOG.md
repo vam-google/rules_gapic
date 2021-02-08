@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/googleapis/rules_gapic/compare/v0.1.0...v0.1.1) (2021-02-08)
+
+
+### Bug Fixes
+
+* remove monolith Go rules ([#4](https://www.github.com/googleapis/rules_gapic/issues/4)) ([fddc5df](https://www.github.com/googleapis/rules_gapic/commit/fddc5dfdf25374bee506ac0065afffe9856f19e2))
+
 ## 0.1.0 (2021-02-08)
 
 
